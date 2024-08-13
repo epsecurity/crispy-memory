@@ -1,3 +1,5 @@
+/* Write a C program that takes two integers as input and prints which one is larger or equal. Use if-else statements */
+
 #include <stdio.h>
 int main() {
 	int x, y;
